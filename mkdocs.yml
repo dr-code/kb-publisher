@@ -144,8 +144,8 @@ plugins:
 #          - mkdocs.plugins.publisher.minifier.plugin
 #          - mkdocs.commands.build
   - search
-  - pub-blog:
-      blog_dir: 04_blog
+  - #pub-blog:
+    # blog_dir: 04_blog
   - pub-obsidian
   - pub-social
   - pub-meta
