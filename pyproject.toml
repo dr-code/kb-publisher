@@ -102,7 +102,6 @@ include = [
 ]
 exclude = [
     "docs",
-    "mkdocs_publisher_docs",
 ]
 reportMissingImports = false
 reportMissingTypeStubs = false
