@@ -10,7 +10,7 @@ repo_url: https://github.com/dr-code/kb-publisher
 edit_uri: edit/main/docs
 
 docs_dir: docs
-site_dir: docs
+site_dir: gh-pages
 
 use_directory_urls: true
 strict: true
